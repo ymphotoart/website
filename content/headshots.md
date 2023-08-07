@@ -11,6 +11,6 @@ Our headshot clients range from actors and models to enterpreneurs, therapists, 
 <!-- {{< figure src="/images/headshots/erica.jpg" >}} -->
 {{< figure src="/images/headshots/sanaz.jpg" >}}
 <!-- {{< figure src="/images/headshots/farhad.jpg" >}} -->
-{{< figure src="/images/headshots/irena.jpg" >}}
+{{< figure src="/images/modeling/irena.jpg" >}}
 {{< figure src="/images/modeling/anthony.jpg" >}}
 {{< figure src="/images/modeling/dani.jpg" >}}
