@@ -1,4 +1,4 @@
-baseURL = 'http://ymphotoart.com/'
+baseURL = 'https://ymphotoart.com/'
 languageCode = 'en-us'
 title = 'YM Photo Art'
 theme = 'ananke'
