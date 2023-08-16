@@ -8,7 +8,7 @@ Our Austin photography studio provides headshots that help brands grow. Modern m
 Our headshot clients range from actors and models to enterpreneurs, therapists, and tech CEOs, but in every instance, we aim to give them something better than a just profile photo. We want to know the "why" of your brand and help you target your ideal client with images that communicate who you are and what you are about.
 
 <!-- {{< figure src="/images/headshots/arash.jpg" >}} -->
-<!-- {{< figure src="/images/headshots/erica.jpg" >}} -->
+{{< figure src="/images/headshots/erica.jpg" >}}
 {{< figure src="/images/headshots/sanaz.jpg" >}}
 <!-- {{< figure src="/images/headshots/farhad.jpg" >}} -->
 {{< figure src="/images/modeling/irena.jpg" >}}
